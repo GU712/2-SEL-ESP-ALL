@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2-SEL-ESP-STARWARS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/1-SEL-STARWARS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -13,7 +13,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]STAR WARS -> FILMES[/B][/COLOR]</name>	
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2A-FLM-STARWARS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/1A-FLM-STARWARS-ALL</externallink>
 <thumbnail>https://i.ibb.co/pXjwNMQ/STAR-WARS-FILM.png</thumbnail>				
 <fanart>https://i.ibb.co/z2ZVjX7/STARWARS-FAN.png</fanart>				
 <info>[B]Assista aqui as séries da franquia STAR WARS[/B]</info>	
@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]STAR WARS -> SÉRIES[/B][/COLOR]</name>	
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2B-SEL-SRS-STARWARS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/1B-SRS-STARWARS-ALL</externallink>
 <thumbnail>https://i.ibb.co/18GwRbp/STAR-WARS-SER.png</thumbnail>				
 <fanart>https://i.ibb.co/z2ZVjX7/STARWARS-FAN.png</fanart>				
 <info>[B]Assista aqui as séries da franquia STAR WARS[/B]</info>
@@ -46,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2-SEL-ESP-STARWARS-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/1-SEL-STARWARS-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -56,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/1-LS-SEL-ESPC-ALL</externallink>
+<externallink>https://raw.githubusercontent.com/GU712/6-SPCLS-ALL/main/1-LS-SEL-ESPC-ALL</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
