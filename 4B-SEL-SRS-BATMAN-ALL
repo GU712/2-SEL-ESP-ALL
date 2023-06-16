@@ -30,13 +30,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]Batman (1966-1967) - INCOMPLETA[/B][/COLOR]</name>
+<name>[COLOR white][B]Batman (1966-1967) - COMPLETA[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/4B2-SRS-Batman.Classico-ALL</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/hRQAhrLO8tBNdwYPh4UJ5zV8lbP.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/eJWKgqICVxgDOOWRNBQ7b6Hh5Xb.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gpJZiTvklr5JN0mzpQwl99peQD7.jpg</fanart>
 <info>[COLOR white]Assista aqui a série: 
 [B]Batman
-[COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
 [COLOR orange]ANOS - 1966 a 1967
 [COLOR orange]SUPER-HERÓIS
 [COLOR orange]03 TEMPS - 120  EPs
@@ -71,17 +71,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DO BATMAN[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/4-SEL-BATMAN-ALL</externallink>
-<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]VOLTAR AO MENU DO <CATEGORIA>[/B][/COLOR]</name>
-<externallink><LINK PARA A PAGE DA CATEGORIA></externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/qJzF1nr/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -166,4 +155,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
