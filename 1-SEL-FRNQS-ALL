@@ -27,6 +27,38 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]Homem-Aranha (Filmes - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/5-SEL-H.ARANHA-ALL</externallink>
+<thumbnail>https://i.ibb.co/0cMdYKy/ESP-H-ARANHA-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/bJ3Cwtf/ESP-H-ARANHA-FAN-ALL.png</fanart>
+<info>[COLOR white]Assista o especial: 
+[B]Homem-Aranha
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange][B]SUPER-HERÓIS
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Homem-Aranha.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR white][B]Os Waltons (Filme e Série)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/6-SEL-WALTONS-ALL</externallink>
+<thumbnail>https://i.ibb.co/44PyHpb/ESP-WALTONS-ICON-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/RCXZTMF/ESP-WALTONS-FAN-ALL.png</fanart>
+<info>[COLOR white]Assista o especial:
+[B]Os Waltons
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]DRAMA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Os Waltons.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Pica-Pau (Filme e Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/3-SEL-PICAPAU-ALL</externallink>
 <thumbnail>https://i.ibb.co/RYyWw5b/ESP-PICAPAU-ICON-ALL-ALL.png</thumbnail>
