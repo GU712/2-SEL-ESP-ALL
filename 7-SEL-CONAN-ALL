@@ -1,5 +1,25 @@
 <channels>
 <channel>
+<name>[COLOR white][B]Conan (Filmes - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/7-SEL-CONAN-ALL</externallink>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart>https://i.ibb.co/ygdPHSk/ESP-CONAN-FAN-ALL.png</fanart>
+<info>[COLOR white]Assista o especial: 
+[B]Conan
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange][B]AVENTURA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Conan.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+PILOTO PARA ADICIONAR NOVA PAGE SELETIVA DE ESPECIAIS OU COLEÇÕES
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/7-SEL-CONAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
@@ -14,8 +34,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Conan (Filmes)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/7A-FLM-CONAN-ALL</externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDO></fanart>
+<thumbnail>https://i.ibb.co/WctqRSS/ESP-CONAN-ICON-FLM-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/ygdPHSk/ESP-CONAN-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista o especial: 
 [B]Conan
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
@@ -30,7 +50,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]Conan (Séries)[/B][/COLOR]</name>
 <externallink><LINKRAWPAGEALVO></externallink>
 <thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDO></fanart>
+<fanart>https://i.ibb.co/ygdPHSk/ESP-CONAN-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista o especial: 
 [B]Conan
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA ATUALIZANDO
@@ -45,8 +65,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]Conan (Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/7C-SEL-SRS-DSH-CONAN-ALL</externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDO></fanart>
+<thumbnail>https://i.ibb.co/L1ZMktV/ESP-CONAN-ICON-DSH-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/ygdPHSk/ESP-CONAN-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista o especial: 
 [B]Conan
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]INCOMPLETA
@@ -167,4 +187,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
