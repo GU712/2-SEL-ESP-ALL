@@ -31,11 +31,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR white][B]Conan (Filmes - Desenhos)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/7-SEL-CONAN-ALL</externallink>
 <thumbnail>https://i.ibb.co/xXWpLPB/ESP-CONAN-ICON-ALL-ALL.png</thumbnail>
-<fanart>https://i.ibb.co/2cWhGNM/ESP-CONAN-FAN-ALL.png</fanart>
+<fanart>https://i.ibb.co/ygdPHSk/ESP-CONAN-FAN-ALL.png</fanart>
 <info>[COLOR white]Assista o especial: 
 [B]Conan
 [COLOR orange]Status[COLOR yellow] -> [COLOR white]COMPLETA
-[COLOR orange][B]AVENTURA
+[COLOR orange]AVENTURA
 [COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Conan.
 [/COLOR]</info>
 </channel>
@@ -90,6 +90,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]Star Trek (Filmes - Séries - Desenhos)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2-SEL-ESP-ALL/main/2-SEL-STARTREK-ALL</externallink>
+<thumbnail>https://i.ibb.co/q0kq49K/ESP-STARTREK-ICON-ALL-ALL.png</thumbnail>
+<fanart>https://i.ibb.co/SvXzk7K/ESP-STARTREK-FAN-ALL.png</fanart>
+<info>[COLOR white]Assista o especial a coleção: 
+[B]Star Trek
+[COLOR orange]Status[COLOR yellow] -> [COLOR white]ATUALIZANDO
+[COLOR orange]FICÇÃO E FANTASIA
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white][/B]Aqui nessa seção você pode assistir o que já conseguimos sobre Star Trek.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -131,17 +146,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/7g2y5NY/STAR-WARS-ESP.png</thumbnail>
 <fanart>https://i.ibb.co/z2ZVjX7/STARWARS-FAN.png</fanart>
 <info>A SAGA MAIS EMBLEMÁTICA DO CINEMA ESTA AQUI PARA SUA MARATONA STAR WARS</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR white][B]SEÇÃO STAR TREK[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/GU712/B6-ESPC-LS-MTX/main/J-SEL-ESP-STARTREK-MTX</externallink>
-<thumbnail>https://i.ibb.co/VqrLgJt/STAR-TREK-ESP.png</thumbnail>				
-<fanart>https://i.ibb.co/2PKdt3M/STAR-TREK-FAN.png</fanart>	
-<info>VÁ AONDE O HOMEM NUNCA SONHOU COM A SAGA STAR TREEK</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
